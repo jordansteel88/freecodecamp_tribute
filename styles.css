@@ -1,0 +1,156 @@
+main {
+    text-align: center;
+    font-family: Segoe Roboto, Roboto, sans-serif;
+}
+
+#title-container {
+    background-color: #eee;
+    color: #333;
+    padding: 10px 0 48px 0;
+    margin-bottom: 2.5rem;
+}
+
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+#img-div {
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    margin: auto;
+    max-width: 50%;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption {
+    background-color: #eee;
+    color: #333;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+#tribute-info {
+    background-color: #eee;
+    margin-top: 2.5rem;
+    padding: 1rem 0 3rem 0;
+}
+
+h2 {
+    margin-bottom: 2rem;
+}
+
+#timeline-container {
+    max-width: 60%;
+    text-align: left;
+    margin: auto;
+}
+
+#timeline-container li {
+    margin: 10px 0;
+}
+
+#timeline-container span {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+#gallery-container {
+    margin-top: 2rem;
+    padding: 1rem 0 3rem 0;
+}
+
+#gallery-container h2 {
+    margin-bottom: 4rem;
+}
+
+#gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /*gap: 10px;*/
+    /*list-style-type: none;*/
+}
+
+#gallery li {
+    /*flex-basis: 30%;*/
+}
+
+#gallery li img {
+    /*overflow: hidden;*/
+    /*max-width: 100%;*/
+    /*height: 70%;*/
+    /*vertical-align: middle;*/
+    /*border-radius: 5px;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#secret::before {
+    content: "love you :*";
+}
